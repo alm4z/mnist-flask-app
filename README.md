@@ -28,7 +28,7 @@ pip install numpy
 ```
 
 ## Running
-Clone repository, got to the specified folder and run
+Clone repository, go to the specified folder and run
 ```
 python application.py
 ```
