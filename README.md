@@ -4,6 +4,10 @@ For education purposes only.
 The model is the simple 2-hidden layer neural network, created using vectorized numpy network implementation
 [MLP MNIST](https://github.com/alm4z/mlp-mnist/blob/master/demo.ipynb). 
 
+
+## Live demo
+Live demo located [here](https://github.com/alm4z/mlp-mnist/blob/master/demo.ipynb). 
+
 ![Demo screenshot](/static/imgs/demo.png?raw=true "Demo")
 
 
@@ -38,10 +42,6 @@ If you want to try another MLP architecture, edit *train.py* and run
 ```
 python train.py
 ```
-
-## Live demo
-Live demo located [here](https://github.com/alm4z/mlp-mnist/blob/master/demo.ipynb). 
-
 ## Credits
 * Signature pad (https://github.com/szimek/signature_pad).
 * MNIST pad (https://github.com/brloureiro/mnist-pad)
