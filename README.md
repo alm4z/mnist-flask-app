@@ -6,7 +6,7 @@ The model is the simple 2-hidden layer neural network, created using vectorized 
 
 
 ## Live demo
-Live demo located [here](https://github.com/alm4z/mlp-mnist/blob/master/demo.ipynb). 
+Live demo located [here](http://almaz.social/flaskmnist). 
 
 ![Demo screenshot](/static/imgs/demo.png?raw=true "Demo")
 
